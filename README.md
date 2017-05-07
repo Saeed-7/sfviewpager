@@ -2,10 +2,10 @@
 SFViewpager is a customize view for viewpager in jar library.
 
 
-### Screen
+## Screen
 ![alt text](https://raw.githubusercontent.com/Saeed-7/sfviewpager/master/screen/sfViewpager.gif)
 
-### How to use
+## How to use
 1. Download jar file and copy into lib folder in your project.
 2. Use below custom RelativeLayout in your layout:
 ```
@@ -65,4 +65,4 @@ SFViewpager is a customize view for viewpager in jar library.
 ```
 7. Injoy.
 
-### Contact me: en.SaeedFekri@gmail.com
+## Contact me: en.SaeedFekri@gmail.com
