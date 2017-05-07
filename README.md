@@ -8,8 +8,7 @@ SFViewpager is a customize view for viewpager in jar library.
 ### How to use
 1. Download jar file and copy into lib folder in your project.
 2. Use below custom RelativeLayout in your layout:
-```
-<ir.saeed7.sfviewpager.SFViewpager
+```<ir.saeed7.sfviewpager.SFViewpager
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -19,8 +18,7 @@ SFViewpager is a customize view for viewpager in jar library.
         app:spacer_line_height="20"
         app:tab_height="40"
         app:tab_height_max="60"
-        app:icon_size="36"/>
-```
+        app:icon_size="36"/>```
   * Add appNs in your attribute:
 ```
         xmlns:app="http://schemas.android.com/apk/res-auto"
