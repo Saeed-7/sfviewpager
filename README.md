@@ -1,6 +1,6 @@
 # SFViewpager
 
-## (Created by [Saeed-7](https://github.com/Saeed-7))
+## Created by [Saeed-7](https://github.com/Saeed-7)
 
 SFViewpager is a customize view for viewpager in jar library.
 
