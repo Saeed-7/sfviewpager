@@ -65,4 +65,4 @@ SFViewpager is a customize view for viewpager in jar library.<br />
 ```
 7- Injoy.
 
-### Contact me: [en.SaeedFekri@gmail.com](en.SaeedFekri@gmail.com)
+### Contact me: en.SaeedFekri@gmail.com
