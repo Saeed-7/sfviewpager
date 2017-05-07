@@ -1,2 +1,2 @@
 # sfviewpager
-SFViewpager is a Customize View of Viewpager.
+SFViewpager is a customize view for viewpager in jar library.
