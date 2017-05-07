@@ -22,11 +22,13 @@ SFViewpager is a customize view for viewpager in jar library.
         app:icon_size="36"/>
         ```
   * Add appNs in your attribute:
+  
 ```xml
 <ir.saeed7.sfviewpager.SFViewpager
         xmlns:app="http://schemas.android.com/apk/res-auto"
         />
 ```
+
   * Use 'title_size' attribute for text-size of TabLayout.
   * Use 'spacer_line_height' attribute for height of line between tablayout and viewpager.(you can use '0')
   * Use 'tab_height' attribute for normal height of tabs in tablayout.
