@@ -2,10 +2,10 @@
 SFViewpager is a customize view for viewpager in jar library.
 
 
-### Screen
+## Screen
 ![alt text](https://raw.githubusercontent.com/Saeed-7/sfviewpager/master/screen/sfViewpager.gif)
 
-### How to use
+## How to use
 1. Download jar file and copy into lib folder in your project.
 2. Use below custom RelativeLayout in your layout:
 ```xml
@@ -23,7 +23,9 @@ SFViewpager is a customize view for viewpager in jar library.
         ```
   * Add appNs in your attribute:
 ```xml
+<ir.saeed7.sfviewpager.SFViewpager
         xmlns:app="http://schemas.android.com/apk/res-auto"
+        />
 ```
   * Use 'title_size' attribute for text-size of TabLayout.
   * Use 'spacer_line_height' attribute for height of line between tablayout and viewpager.(you can use '0')
